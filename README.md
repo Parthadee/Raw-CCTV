@@ -103,9 +103,6 @@ python pipeline/detect.py --video "CCTV Footage/entry_cam.mp4" --output output/e
 ```bash
 uvicorn app.main:app --reload
 ```
-
-API runs at: **http://127.0.0.1:8000**
-
 ### Step 3: Ingest Events
 
 ```bash
