@@ -1,0 +1,5 @@
+echo ".venv/" >> .gitignore
+echo "CCTV Footage/" >> .gitignore
+echo "*.mp4" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
